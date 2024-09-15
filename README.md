@@ -35,4 +35,4 @@ Se você quiser contribuir com este projeto, siga estas etapas:
 
 ## Autor
 
-Desenvolvido por [JohnatanG3](https://github.com/SeuUsuario) no Mini curso - Construindo seu jogo em JavaScripte.
+Desenvolvido por [JohnatanG3](https://github.com/JohnatanG3) no Mini curso - Construindo seu jogo em JavaScripte.
